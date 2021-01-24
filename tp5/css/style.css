@@ -1,0 +1,28 @@
+#weatherApp {
+  margin: auto;
+  margin-top: 40px;
+  width: 500px;
+  margin-left: 20px;
+}
+body {
+  background-image: url("meteo.PNG");
+
+background-repeat: no-repeat;
+
+}
+.card {
+  margin: auto;
+  width: 400px;
+}
+h4{
+  color: red;
+}
+.map {
+  margin-bottom: 100px;
+  background-color: transparent;
+  margin-left: 150%;
+  margin-top: -90%;
+}
+#icon{
+  font-size:4em; 
+}
